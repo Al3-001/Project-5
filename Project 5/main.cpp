@@ -1,11 +1,9 @@
 // Project 5.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//Name:
+
+//Name:         !!!!!Remember to put your name on your uploading zip file here!!!!!
 //Date:
 //Description:
 
-///
-///	List option C and F adds one empty value to their purpose;
-/// 
 
 //#include <iostream>
 #include "list.h"
